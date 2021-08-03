@@ -1,4 +1,4 @@
-  name: LygoRD
+name: LygoRD
 
 on: workflow_dispatch
 

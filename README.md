@@ -1,4 +1,4 @@
-# Ly_RDP 
+# Lygo_RDP 
 
 it's all free, don't be stingy ⭐️ yes: D
 
@@ -9,7 +9,7 @@ it's all free, don't be stingy ⭐️ yes: D
 
 <br>
 
-### HOW TO CREATE Ly_RDP
+### HOW TO CREATE Lygo_RDP
 ```
 > Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
 
